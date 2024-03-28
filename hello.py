@@ -1,5 +1,7 @@
 import ccxt
 
+
+print("Im literally so small")
 print("DONT U DARE")
 print("PLEASE")
 print("plz")
